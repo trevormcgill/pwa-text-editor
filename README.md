@@ -8,7 +8,7 @@ For this challenge, my task was to build a browser-based text editor that functi
 
 ## Text Editor Preview
 
-![00-demo.gif](./assets/00-demo.gif)
+![00-demo.gif](https://github.com/trevormcgill/pwa-text-editor/blob/main/Assets/00-demo.gif)
 
 <br>
 
